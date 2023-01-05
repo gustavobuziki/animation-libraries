@@ -5,3 +5,5 @@ export * from "./mo/mo";
 export * from "./scrollreveal/scrollreveal";
 export * from "./tilt/tilt";
 export * from "./typed/typed";
+export * from "./description/description";
+export * from "./link/link";

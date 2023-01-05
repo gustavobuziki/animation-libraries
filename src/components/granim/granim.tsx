@@ -1,3 +1,10 @@
+import "../../index.css";
+import { Link, Description } from "../";
+
 export const Granim = () => {
-  return <h1>GRANIM</h1>;
+  return (
+    <div className="container">
+      <Link link="/gsap" />
+    </div>
+  );
 };
